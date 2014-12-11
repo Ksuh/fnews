@@ -45,6 +45,7 @@ h2 {
 	position: relative;
 	border: 1px solid transparent;
 	overflow: hidden;
+	margin-left: -40px;
 }
 
 .header-row {
